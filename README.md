@@ -8,4 +8,3 @@ By combining statistical rigor with interactive visuals, the project not only an
 
 From scattered rows to strategic clarity, this journey wasn’t about opinions it was about listening to data. What we found was a roadmap built on signals, patterns, and proof. Now, the story the data told us is ready to become action.
 The result is a set of actionable insights delivered through a comprehensive, interactive dashboard that aligns with Zomato’s mission to bring better food for more people - thoughtfully, strategically, and efficiently.
-<img width="5466" height="622" alt="image" src="https://github.com/user-attachments/assets/8d9c1900-a4a3-459b-bb85-d06b185ab3ec" />
